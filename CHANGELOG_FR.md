@@ -14,6 +14,15 @@ Notes de version complètes : [GitHub releases](https://github.com/Sebastien-VZN
 
 ---
 
+## [beta_0.6.3] — 2026-08-28
+
+### MSIX — packaging Microsoft Store (nouveau)
+- Axomind est désormais disponible en package MSIX pour le Microsoft Store
+- Premier build vérifié : `axomind_0.6.2.msix` (20,5 Mo)
+
+### Traductions
+- Mise à jour des données de traduction sur 33 langues supportées
+
 ## [beta_0.6.1] — 2026-08-21
 
 - Kanban : série de correctifs UX — glisser-déposer, images de fond des cartes, décorations et règles de visibilité des cartes
