@@ -751,6 +751,6 @@ API Bot ──▸ Backend PHP ──▸ Serveur WebSocket Node.js ──▸ Clie
 ---
 
 <div align="center">
-  <p><sub><strong>Guide version:</strong> 2026-08-22 | <strong>API version:</strong> 2.0</sub></p>
+  <p><sub><strong>Guide version:</strong> 2026-08-31 | <strong>API version:</strong> 2.0</sub></p>
   <p><a href="README.md">← Back to main documentation</a></p>
 </div>

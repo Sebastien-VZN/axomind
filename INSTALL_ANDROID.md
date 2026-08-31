@@ -53,7 +53,7 @@ These security measures are implemented by Android to protect users. Since Axomi
 
 ---
 
-**Guide version:** 2026-08-22
+**Guide version:** 2026-08-31
 
 ---
 
@@ -113,6 +113,6 @@ Ces mesures de sécurité sont mises en place par Android pour protéger les uti
 
 ---
 
-**Version du guide :** 2026-08-22
+**Version du guide :** 2026-08-31
 
 </details>

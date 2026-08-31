@@ -14,6 +14,13 @@ Notes de version complètes : [GitHub releases](https://github.com/Sebastien-VZN
 
 ---
 
+## [beta_0.6.4] — 2026-08-31
+
+### Traductions
+- Nouvelles chaînes Kanban traduites sur les 33 langues supportées (paramètres du tableau, style et couleur des cartes, interactions canvas : sélection, déplacement et zoom des nœuds)
+
+---
+
 ## [beta_0.6.3] — 2026-08-28
 
 ### MSIX — packaging Microsoft Store (nouveau)

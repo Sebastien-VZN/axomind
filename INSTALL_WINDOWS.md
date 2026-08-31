@@ -84,7 +84,7 @@ Axomind is not signed with a Microsoft certificate (high annual cost). This is w
 
 ---
 
-**Guide version:** 2026-08-22
+**Guide version:** 2026-08-31
 
 ---
 
@@ -175,6 +175,6 @@ Axomind n'est pas signé avec un certificat Microsoft (coût annuel élevé). C'
 
 ---
 
-**Version du guide :** 2026-08-22
+**Version du guide :** 2026-08-31
 
 </details>

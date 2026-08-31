@@ -14,6 +14,13 @@ Full release notes: [GitHub releases](https://github.com/Sebastien-VZN/axomind/r
 
 ---
 
+## [beta_0.6.4] — 2026-08-31
+
+### Translations
+- New Kanban strings translated across all 33 supported languages (board settings, card style and color, canvas interactions: node selection, drag, zoom)
+
+---
+
 ## [beta_0.6.3] — 2026-08-28
 
 ### MSIX — Microsoft Store packaging (new)

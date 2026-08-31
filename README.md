@@ -8,8 +8,8 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Version-0.6.1%20(46)-blueviolet?style=flat-square&logo=github" alt="Version"/>
-    <img src="https://img.shields.io/badge/Release%20Date-2026--08--22-blue?style=flat-square&logo=calendar" alt="Release Date"/>
+    <img src="https://img.shields.io/badge/Version-0.6.4%20(49)-blueviolet?style=flat-square&logo=github" alt="Version"/>
+    <img src="https://img.shields.io/badge/Release%20Date-2026--08--31-blue?style=flat-square&logo=calendar" alt="Release Date"/>
   </p>
 
   <p align="center">
