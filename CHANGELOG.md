@@ -14,6 +14,19 @@ Full release notes: [GitHub releases](https://github.com/Sebastien-VZN/axomind/r
 
 ---
 
+## [beta_0.6.5] — 2026-09-02
+
+### Translations
+- Hard-coded UI strings moved to the translation system: Kanban forms (board settings, card style and color) and mindmap usage hints (select, drag, zoom) now fully localized in all 33 supported languages
+- Language package updates
+
+### Fixes & internals
+- Mindmap: removed debug logging on node form opening
+- `native_spell_checker` dependency now resolved from pub.dev instead of the GitHub fork
+- Second Microsoft Store submission prepared (MSIX 0.6.5)
+
+---
+
 ## [beta_0.6.4] — 2026-08-31
 
 ### Translations

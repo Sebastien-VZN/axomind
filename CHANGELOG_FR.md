@@ -14,6 +14,19 @@ Notes de version complètes : [GitHub releases](https://github.com/Sebastien-VZN
 
 ---
 
+## [beta_0.6.5] — 2026-09-02
+
+### Traductions
+- Chaînes UI en dur migrées vers le système de traduction : formulaires Kanban (paramètres du tableau, style et couleur des cartes) et repères d'utilisation de la mindmap (sélection, déplacement, zoom) désormais localisés dans les 33 langues supportées
+- Mise à jour du package de langage
+
+### Correctifs & interne
+- Mindmap : suppression des logs de debug à l'ouverture du formulaire de node
+- Dépendance `native_spell_checker` désormais résolue depuis pub.dev au lieu du fork GitHub
+- Préparation de la seconde soumission Microsoft Store (MSIX 0.6.5)
+
+---
+
 ## [beta_0.6.4] — 2026-08-31
 
 ### Traductions
