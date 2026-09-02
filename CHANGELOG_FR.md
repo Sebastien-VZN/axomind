@@ -14,6 +14,27 @@ Notes de version complètes : [GitHub releases](https://github.com/Sebastien-VZN
 
 ---
 
+## [beta_0.6.6] — 2026-09-02
+
+### Windows — instance unique (correctif)
+- L'application pouvait auparavant être ouverte plusieurs fois sous Windows : un clic sur une notification toast ou un relancement de l'exécutable démarrait un nouveau process au lieu de reprendre celui en cours (la croix de fermeture se contente de cacher la fenêtre dans la barre système, les process en double s'accumulaient : deux icônes systray, deux connexions temps réel, écritures concurrentes dans la base locale)
+- Axomind impose désormais une instance unique : un second lancement ramène la fenêtre existante au premier plan — même cachée dans le systray — puis se termine instantanément
+- Le clic sur une notification toast restaure désormais l'application en cours et ouvre la page concernée, au lieu de créer un doublon
+
+### Linux — instance unique (correctif)
+- Le même problème de process en double existait sous Debian : le template Linux par défaut de Flutter désactivait explicitement le comportement d'instance unique natif de GtkApplication
+- Axomind utilise désormais le mécanisme natif D-Bus : un second lancement transmet ses arguments à l'instance en cours, présente sa fenêtre puis se termine — même comportement que sous Windows, routage du payload de notification inclus
+
+### Sécurité — purge des données à la déconnexion
+- La déconnexion purge désormais l'état mémoire de la session avant le disque : messages de la conversation ouverte, bots actifs, thème et langue du compte sortant sont vidés — le compte suivant connecté sur la même machine n'hérite de rien du précédent
+- Un échec de suppression du dossier de cache local (ex. fichier encore verrouillé par l'OS sous Windows) n'interrompt plus le reste de la chaîne de déconnexion
+
+### Notifications et uploads
+- Les notifications Windows utilisent désormais un AppUserModelId stable, ce qui assainit les clés de registre des builds ZIP (sans effet sur les builds Store)
+- Les uploads rejetés car le stockage serveur est saturé affichent désormais un message dédié au lieu d'une erreur générique
+
+---
+
 ## [beta_0.6.5] — 2026-09-02
 
 ### Traductions
