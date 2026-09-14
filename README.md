@@ -4,7 +4,7 @@
   <p><strong>Plan projects, map ideas, and message your team — encrypted, self-hosted.</strong></p>
   
   <p>
-    <img src="https://img.shields.io/badge/status-beta-blue?style=for-the-badge" alt="Project Status: Beta"/>
+    <img src="https://img.shields.io/badge/status-suspended-orange?style=for-the-badge" alt="Project Status: Suspended"/>
   </p>
 
   <p align="center">
@@ -90,12 +90,11 @@ Two clips recorded during a live test with three workstations on the same instan
 
 ---
 
-## ⚠️ Project Status: Beta Version
+## ⚠️ Project Status: Temporarily Suspended
 
-> This project is in active development. Bugs and unexpected behaviors are likely. Feedback is welcome.
-
-> **📧 About emails**
-> Email-based features (account verification, password reset, 2FA) are currently disabled. Accounts work without any email step.
+> Without funding and a commercial structure, Axomind development is temporarily on hold. This decision allows the developer to focus on immediate priorities.
+>
+> The server remains operational in demonstration mode. Registrations are open. The codebase, builds and documentation stay available. The project will resume as soon as conditions allow.
 
 ---
 
@@ -302,6 +301,8 @@ All notable releases are documented in [CHANGELOG.md](CHANGELOG.md) ([version fr
 
 ## 🛣️ Roadmap & Future of the Project
 
+> **Note:** The project is currently suspended (see Project Status above). The roadmap below reflects the state before suspension and remains valid as a direction once the project resumes.
+
 ### Current hosting, a deliberate choice
 
 The full stack (Axomind + Axovox) currently runs on a single self-hosted refurbished mini-PC. This isn't an ideological stance. It's the result of architecture decisions that pushed energy efficiency to roughly **85–90% below an equivalent managed cloud setup**, as detailed in the [performance analysis](PERF.md).
@@ -346,12 +347,11 @@ The AI copilot, for its part, remains an idea under study, one that will also de
   <p><strong>Planifiez vos projets, cartographiez vos idées, échangez avec votre équipe — chiffré, autohébergé.</strong></p>
 </div>
 
-## ⚠️ Statut du projet : Version Beta
+## ⚠️ Statut du projet : Temporairement suspendu
 
-> Ce projet est en développement actif. Des bugs et comportements inattendus sont probables. Les retours sont bienvenus.
-
-> **📧 À propos des emails**
-> Les fonctionnalités liées à l'email (vérification de compte, réinitialisation de mot de passe, 2FA) sont actuellement désactivées. Les comptes fonctionnent sans étape email.
+> En l'absence de financement et d'une structure commerciale, le développement d'Axomind est temporairement mis en pause. Cette décision permet de concentrer l'énergie sur des priorités immédiates.
+>
+> Le serveur reste opérationnel en mode démonstration. Les inscriptions sont ouvertes. Le code, les builds et la documentation restent disponibles. Le projet reprendra dès que les conditions le permettront.
 
 ---
 
@@ -573,6 +573,8 @@ Toutes les versions notables sont documentées dans [CHANGELOG_FR.md](CHANGELOG_
 ---
 
 ## 🛣️ Roadmap & Avenir du projet
+
+> **Note :** Le projet est actuellement suspendu (voir Statut du projet ci-dessus). La roadmap ci-dessous reflète l'état avant suspension et reste valable comme direction dès la reprise.
 
 ### Hébergement actuel, un choix assumé
 
