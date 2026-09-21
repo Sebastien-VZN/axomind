@@ -13,6 +13,10 @@ Full release notes: [GitHub releases](https://github.com/Sebastien-VZN/axomind/r
 - MCP server published as open source: [axomind-mcp](https://github.com/Sebastien-VZN/axomind-mcp) — 26 AI tools over the Bot API (messenger, mindmap, planning, tree injection)
 
 ---
+## [beta_0.6.8] — 2026-09-21
+- Add app usage analytics
+- Update dependencies
+---
 
 ## [beta_0.6.6] — 2026-09-02
 

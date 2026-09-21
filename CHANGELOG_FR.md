@@ -13,6 +13,10 @@ Notes de version complètes : [GitHub releases](https://github.com/Sebastien-VZN
 - Serveur MCP publié en open source : [axomind-mcp](https://github.com/Sebastien-VZN/axomind-mcp) — 26 tools IA au-dessus de l'API Bot (messagerie, mindmap, planning, injection d'arborescences)
 
 ---
+## [beta_0.6.8] — 2026-09-21
+- Ajout des statistiques d'analyse d'usage de l'application
+- Mise à jour des dépendances
+---
 
 ## [beta_0.6.6] — 2026-09-02
 
