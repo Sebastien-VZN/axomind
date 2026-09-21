@@ -2,10 +2,6 @@
   <img src="image/logo_axomind.png" alt="Axomind Logo" width="150"/>
   <h1>Axomind</h1>
   <p><strong>Plan projects, map ideas, and message your team — encrypted, self-hosted.</strong></p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/status-suspended-orange?style=for-the-badge" alt="Project Status: Suspended"/>
-  </p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Version-0.6.8%20(53)-blueviolet?style=flat-square&logo=github" alt="Version"/>
